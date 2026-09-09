@@ -55,6 +55,7 @@ The learner experience must preserve the loop:
 <!-- BEGIN PORTFOLIO-CONTROL MANAGED -->
 ## Governed agentic delivery
 
+- Read `.agents/skills/engineering-execution/SKILL.md` for nontrivial work: complete the requested outcome, verify its entry point, and preserve context.
 - Product: `engineering-learning-platform`; delivery profile: `product-data`.
 - Control revision: `789d2129f0137086a6ebd784cfb000b45a8ae978`; harness version: `2`.
 - Read `contracts/profile-requirements.yaml` and the approved
