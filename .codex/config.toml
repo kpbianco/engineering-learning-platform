@@ -2,3 +2,7 @@ model_reasoning_effort = "high"
 approval_policy = "never"
 sandbox_mode = "workspace-write"
 web_search = "enabled"
+
+# Supported ChatGPT-signed-in clients apply this opt-in to new tasks.
+[features.context_management]
+experimental_mode = true
